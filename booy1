@@ -51,7 +51,6 @@ jspm_packages/
 .rts2_cache_cjs/
 .rts2_cache_es/
 
-
 # Optional REPL history
 .node_repl_history
 
